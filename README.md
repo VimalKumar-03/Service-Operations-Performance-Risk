@@ -105,4 +105,4 @@ Performance Analysis → MySQL
 
 Visualization → Power BI
 
-It reflects real-world service operations and risk monitoring dashboards used in companies like EXL and Genpact.
+It reflects real-world service operations and risk monitoring dashboards used in companies like EXL.
